@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Wittig18
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Excel, PowerBi, SPSS
+- 👀 BI Ananlyst, ML/AI
 - 📫 How to reach me yusufmustapha182@gmail.com
 
 <!---
